@@ -59,7 +59,5 @@ This project was completed as part of freeCodeCamp's Relational Database Certifi
 
 ## Author
 
-[Your Name](https://github.com/your-username)
-
 Ahmadullah Ahmadi
 
